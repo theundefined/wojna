@@ -1,0 +1,2 @@
+# wojna
+wojna - symulator rozgrywki
